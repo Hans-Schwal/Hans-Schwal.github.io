@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'cac_champagneregular';
+    src: url('cac_champagne-webfont.eot');
+    src: url('cac_champagne-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cac_champagne-webfont.woff') format('woff'),
+         url('cac_champagne-webfont.ttf') format('truetype'),
+         url('cac_champagne-webfont.svg#cac_champagneregular') format('svg');
+}
+#page{
+  background-color: #000010;
+  text-align: center;
+  color: #DAA520;
+  padding-top: 10%;
+}
+h1{
+  font-family: 'cac_champagneregular';
+  font-size: 900%;
+}
+h2{
+  font-family: 'cac_champagneregular';
+  font-size: 300%;
+  color: #DAA520;
+}
+.btn{
+  font-family: 'cac_champagneregular';
+  font-size: 200%;
+  background-color: #000010;
+  color: #DAA520;
+  margin-bottom: 2.5%;
+}
+}
+#devweb{
+  margin-top: 10px;
+}
+p{
+  font-family: helvetica;
+  color: black;
+}
+.typo{
+  font-weight: bold;
+  text-decoration: underline;
+}
+#explore{
+  font-family: 'cac_champagneregular';
+  font-size: 400%;
+  color: #DAA520;
+}
+.nav-link{
+  font-family: 'cac_champagneregular';
+  font-size: 250%;
+  color: #DAA520;
+}
+.progress{
+  width: 50%;
+  margin-bottom: 15px;
+  margin-left: 25%;
+}
+ul{
+  color: black;
+}
+.logo{
+  height: 25px;
+  width: 25px;
+}
